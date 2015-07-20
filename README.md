@@ -1,6 +1,6 @@
 # Omniauth::Line
 
-LINE Web Login strategy for OmniAuth.
+[LINE Web Login](https://developers.line.me) strategy for [OmniAuth](https://github.com/intridea/omniauth).
 
 ## Installation
 
